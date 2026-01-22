@@ -7,3 +7,4 @@ Git commands:
 5. git remote add [alias] [url] := add a git URL as an alias.
 6. git push [alias] [branch] := Transmit local branch commits to the remote repository branch.
 7. git merge [alias]/[branch] := merge a remote branch into your current branch to bring it up to date.
+8. git pull := fetch and merge any commits from the tracking remote branch.
