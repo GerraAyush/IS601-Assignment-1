@@ -6,3 +6,4 @@ Git commands:
 4. git commit -m “[descriptive message]” := commit your staged content as a new commit snapshot.
 5. git remote add [alias] [url] := add a git URL as an alias.
 6. git push [alias] [branch] := Transmit local branch commits to the remote repository branch.
+7. git merge [alias]/[branch] := merge a remote branch into your current branch to bring it up to date.
