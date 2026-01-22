@@ -8,3 +8,6 @@ Git commands:
 6. git push [alias] [branch] := Transmit local branch commits to the remote repository branch.
 7. git merge [alias]/[branch] := merge a remote branch into your current branch to bring it up to date.
 8. git pull := fetch and merge any commits from the tracking remote branch.
+
+Linux commands:
+1. diff [OPTION|S] FILE1 FILE2 := display the differences in the files by comparing the files line by line.
