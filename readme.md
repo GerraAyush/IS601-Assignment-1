@@ -5,3 +5,4 @@ Git commands:
 3. git add [file] := add a file as it looks now to your next commit (stage).
 4. git commit -m “[descriptive message]” := commit your staged content as a new commit snapshot.
 5. git remote add [alias] [url] := add a git URL as an alias.
+6. git push [alias] [branch] := Transmit local branch commits to the remote repository branch.
