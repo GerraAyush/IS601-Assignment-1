@@ -11,3 +11,4 @@ Git commands:
 
 Linux commands:
 1. diff [OPTION|S] FILE1 FILE2 := display the differences in the files by comparing the files line by line.
+2. head FILE := display the first few lines of one or more text files directly in the terminal.
