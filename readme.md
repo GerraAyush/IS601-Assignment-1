@@ -14,3 +14,4 @@ Linux commands:
 2. head FILE := display the first few lines of one or more text files directly in the terminal.
 3. more [-options] [-num] [+/pattern] [+linenum] [filename] := view the contents of a text file one screen (or page) at a time in the terminal.
 4. rm [options] [path] := used to delete files and directories permanently from the file system.
+5. touch [path/to/file] := used to create an empty file or update the access and modification timestamps of existing files.
