@@ -13,3 +13,4 @@ Linux commands:
 1. diff [OPTION|S] FILE1 FILE2 := display the differences in the files by comparing the files line by line.
 2. head FILE := display the first few lines of one or more text files directly in the terminal.
 3. more [-options] [-num] [+/pattern] [+linenum] [filename] := view the contents of a text file one screen (or page) at a time in the terminal.
+4. rm [options] [path] := used to delete files and directories permanently from the file system.
