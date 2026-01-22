@@ -16,3 +16,4 @@ Linux commands:
 4. rm [options] [path] := used to delete files and directories permanently from the file system.
 5. touch [path/to/file] := used to create an empty file or update the access and modification timestamps of existing files.
 6. mv [old/path] [new/path] := used to move or rename files and directories.
+7. tail [OPTION] [FILE] := used to display the last part of a file.
